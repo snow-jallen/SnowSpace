@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnowSpaceConsole", "SnowSpaceConsole\SnowSpaceConsole.csproj", "{7AD72C16-2168-4ED0-9228-F8F06F6E8337}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnowSpaceLogic", "SnowSpaceLogic\SnowSpaceLogic.csproj", "{C4CC989B-9D14-408F-ADB2-3DA8B81A8191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnowSpaceTests", "SnowSpaceTests\SnowSpaceTests.csproj", "{4CE2121B-359D-436D-831E-DF0FC4636106}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnowSpaceWeb", "SnowSpaceWeb\SnowSpaceWeb.csproj", "{6BD0CBAD-550C-403E-AB2D-6A67FCB9BE9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AD72C16-2168-4ED0-9228-F8F06F6E8337}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AD72C16-2168-4ED0-9228-F8F06F6E8337}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AD72C16-2168-4ED0-9228-F8F06F6E8337}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AD72C16-2168-4ED0-9228-F8F06F6E8337}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4CC989B-9D14-408F-ADB2-3DA8B81A8191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4CC989B-9D14-408F-ADB2-3DA8B81A8191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4CC989B-9D14-408F-ADB2-3DA8B81A8191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4CC989B-9D14-408F-ADB2-3DA8B81A8191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CE2121B-359D-436D-831E-DF0FC4636106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE2121B-359D-436D-831E-DF0FC4636106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE2121B-359D-436D-831E-DF0FC4636106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE2121B-359D-436D-831E-DF0FC4636106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BD0CBAD-550C-403E-AB2D-6A67FCB9BE9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BD0CBAD-550C-403E-AB2D-6A67FCB9BE9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BD0CBAD-550C-403E-AB2D-6A67FCB9BE9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BD0CBAD-550C-403E-AB2D-6A67FCB9BE9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
